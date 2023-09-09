@@ -1,6 +1,0 @@
-{{#user}}
-Tuhin1904
-Name : Tuhin Ghosh
-Skills: HTML, CSS, JS, Next.js
-Email: iamtuhinn@gmail.com
-{{/user}}
